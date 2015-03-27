@@ -1,0 +1,7 @@
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\classes\debug
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-cd23e8197bb8625d0e6e2df967ca09041d62290d.jar
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-10d22c2bd13c8da1a77225733c42fd52c28e647d.jar
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\pre-dexed\debug\classes-57cfcdb0db59c9a879d0eb251143ec5d351b9134.jar
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\pre-dexed\debug\classes-7c4d9577f37542db3255c4fa3d9725e97f445e4a.jar
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-821abd23fd507a2f7f93150e7f636c0f4aa8f8f7.jar
+C:\Users\jim\AndroidStudioProjects\Camera2Basic2\Application\build\intermediates\pre-dexed\debug\classes-47f4964e909aa0a562d1d74527a3020509af1bf2.jar
